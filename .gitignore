@@ -1,0 +1,46 @@
+parse_int
+parse_int.asm
+parse_int.o
+parse_uint
+parse_uint.asm
+parse_uint.o
+print_char
+print_char.asm
+print_char.o
+print_int
+print_int.asm
+print_int.o
+print_string
+print_string.asm
+print_string.o
+print_uint
+print_uint.asm
+print_uint.o
+read_char
+read_char.asm
+read_char.o
+read_word
+read_word.asm
+read_word_length
+read_word_length.asm
+read_word_length.o
+read_word.o
+read_word_too_long
+read_word_too_long.asm
+read_word_too_long.o
+string_copy
+string_copy.asm
+string_copy.o
+string_copy_too_long
+string_copy_too_long.asm
+string_copy_too_long.o
+string_equals
+string_equals.asm
+string_equals not equals
+string_equals not equals.asm
+string_equals not equals.o
+string_equals.o
+string_length
+string_length.asm
+string_length.o
+
